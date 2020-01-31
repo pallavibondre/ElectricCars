@@ -1,0 +1,39 @@
+
+
+#menu ul
+{
+    margin-left: 300px;
+   padding: 5px;
+    list-style-type: none;
+}
+
+#menu li
+{
+ list-style: none;
+    float: left;
+    margin-right: 1em
+}
+
+#menu a
+{
+    display: block;
+    width: 8em;
+    color: white;
+    background-color: #006666;
+    text-decoration: none;
+    text-align: center;
+  font-size:22;
+
+}
+
+#menu a:hover
+{
+    background-color: #6666AA;
+}
+
+.Des
+{
+   font-size:13px;
+   font-color:white;
+   font:'arial';
+}
